@@ -1,0 +1,32 @@
+_repo: Amusing-Trial-in-which-a-Yankee-Lawyer-Renders-a-Just-Verdict_17604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17604'
+language: en
+publication_note: "Published at the Office of the Youth's Cabinet, 126 Fulton Street.\r\
+  \nNew York\r\n1841"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Amusing Trial in which a Yankee Lawyer Renders a Just Verdict
+url: http://www.gutenberg.org/ebooks/17604
