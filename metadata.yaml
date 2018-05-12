@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17604#Amusing-Trial-in-which-a-Yankee-Lawyer-Renders-a-Just-Verdict
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2006-01-25'
 gutenberg_type: Text
